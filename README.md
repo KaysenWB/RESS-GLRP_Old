@@ -1,4 +1,4 @@
-# SS-GLMP
+# RESS-GLRP_Old
 
 This is the implementation code for the paper "Enhancing Risk Perception by Integrating Ship Interactions in Multi-Ship Encounters: A Graph-Based Learning Method".
 
